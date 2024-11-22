@@ -1,2 +1,3 @@
-# Personalized-health-management-assistant-project-based-on-large-model
-Personalized health management assistant project based on large model
+# 基于大模型的个性化健康管理助手项目
+
+在当今快节奏的生活中，人们对健康的关注日益增加，但传统的健康管理方式往往缺乏个性化和精准性。本项目旨在基于书生大模型（InternLM）实现利用大模型技术，打造一个个性化健康管理助手，为用户提供全方位、精准的健康管理服务。通过基于书生大模型（InternLM）对用户的健康数据（如生理指标、生活习惯、疾病史等）以及实时的健康信息（如症状描述、体检报告等）进行分析，该助手能够基于书生大模型（InternLM）为用户提供个性化的健康建议、疾病风险预测、治疗方案推荐等服务。同时，它还可以基于书生大模型（InternLM）与用户进行智能交互，解答用户的健康疑问，帮助用户更好地了解自己的健康状况，提高健康管理的效果和效率。 
